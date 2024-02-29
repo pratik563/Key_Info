@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+  color: rgb(255, 166, 0);
+}
+
+.project{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+} 
+
+table,th,td{
+  border: solid green 1px;
+}
